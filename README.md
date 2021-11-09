@@ -2,6 +2,8 @@
 
 Using Java OOP Concepts 
 
+Jsp , Servlets and MySql
+
 Group Project
 Year 2 Semester 2
 
